@@ -1,3 +1,12 @@
+********************************************************************************************
+#### Homework files are in "BootCamp2017" repository. ####
+#### Homework files are in "BootCamp2017" repository. ####
+#### Homework files are in "BootCamp2017" repository. ####
+#### Homework files are in "BootCamp2017" repository. ####
+#### Homework files are in "BootCamp2017" repository. ####
+* [BootCamp2017](https://github.com/seoket1/BootCamp2017) 
+********************************************************************************************
+
 ### Introduction to parallel programming in economics and finance
 
 This is a introductory course on parallel programming, held at the 
